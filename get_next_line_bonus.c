@@ -104,6 +104,6 @@ char	*get_next_line(int fd)
 		free (buffer);
 		return (ret);
 	}
-	ret = verif_storage(&storage, (buffer - storage[fd]) + 1);
+	ret = verif_storage(&storage[fd], (buffer - storage[fd]) + 1);
 	return (ret);
 }
