@@ -31,15 +31,15 @@ void	*ft_memcpy(void *dest, const void *src, size_t n)
 {
 	size_t	i;
 
-	if (!src && !dst)
+	if (!src && !dest)
 		return (0);
 	i = 0;
 	while (i < n)
 	{
-		((char *)dst)[i] = ((const char *)src)[i];
+		((char *)dest)[i] = ((const char *)src)[i];
 		i++;
 	}
-	return (dst);
+	return (dest);
 }
 
 char	*ft_strjoin(const char *s1, const char *s2)
