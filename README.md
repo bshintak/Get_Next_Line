@@ -1,6 +1,6 @@
 # Get_next_line (Gnl)
 
- [![Intro](https://img.shields.io/badge/Cursus-Gnl-success?style=for-the-badge&logo=42)](https://github.com/bshintak/Gnl)
+ [![Intro](https://img.shields.io/badge/Cursus-Get_next_line-success?style=for-the-badge&logo=42)](https://github.com/bshintak/Gnl)
  
  [![Stars](https://img.shields.io/github/stars/bshintak/Gnl?color=ffff00&label=Stars&logo=Stars&style=?style=flat)](https://github.com/bshintak/Gnl)
  [![Size](https://img.shields.io/github/repo-size/bshintak/Gnl?color=blue&label=Size&logo=Size&style=?style=flat)](https://github.com/bshintak/Gnl) 
