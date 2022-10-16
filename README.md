@@ -1,5 +1,11 @@
 # Get_next_line (Gnl)
 
+ [![Intro](https://img.shields.io/badge/Cursus-Gnl-success?style=for-the-badge&logo=42)](https://github.com/bshintak/Gnl)
+ 
+ [![Stars](https://img.shields.io/github/stars/bshintak/Gnl?color=ffff00&label=Stars&logo=Stars&style=?style=flat)](https://github.com/bshintak/Gnl)
+ [![Size](https://img.shields.io/github/repo-size/bshintak/Gnl?color=blue&label=Size&logo=Size&style=?style=flat)](https://github.com/bshintak/Gnl) 
+ [![Activity](https://img.shields.io/github/last-commit/bshintak/Gnl?color=red&label=Last%20Commit&style=flat)](https://github.com/bshintak/Gnl)
+
 📖 Get_next_line is a 42 school project.
 
 The instructions were given in the [subject](https://github.com/bshintak/Gnl/blob/master/subject_gnl.pdf).
