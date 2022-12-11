@@ -2,13 +2,14 @@
 
  [![Intro](https://img.shields.io/badge/Cursus-Get_next_line-success?style=for-the-badge&logo=42)](https://github.com/bshintak/Gnl)
  
- [![Stars](https://img.shields.io/github/stars/bshintak/Gnl?color=ffff00&label=Stars&logo=Stars&style=?style=flat)](https://github.com/bshintak/Gnl)
- [![Size](https://img.shields.io/github/repo-size/bshintak/Gnl?color=blue&label=Size&logo=Size&style=?style=flat)](https://github.com/bshintak/Gnl) 
- [![Activity](https://img.shields.io/github/last-commit/bshintak/Gnl?color=red&label=Last%20Commit&style=flat)](https://github.com/bshintak/Gnl)
+ [![Stars](https://img.shields.io/github/stars/bshintak/Get_Next_Line?color=ffff00&label=Stars&logo=Stars&style=?style=flat)](https://github.com/bshintak/Gnl)
+ [![Size](https://img.shields.io/github/repo-size/bshintak/Get_Next_Line?color=blue&label=Size&logo=Size&style=?style=flat)](https://github.com/bshintak/Gnl) 
+ ![Lines of code](https://img.shields.io/tokei/lines/github/bshintak/Get_Next_line?color=blueviolet)
+ [![Activity](https://img.shields.io/github/last-commit/bshintak/Get_Next_Line?color=red&label=Last%20Commit&style=flat)](https://github.com/bshintak/Gnl)
 
 📖 Get_next_line is a 42 school project.
 
-The instructions were given in the [subject](https://github.com/bshintak/Gnl/blob/master/subject_gnl.pdf).
+The instructions were given in the [subject](https://github.com/bshintak/Get_Next_Line/blob/master/subject_gnl.pdf).
 
 It is a function that reads a file and allows you to read a line ending with a newline character from a file descriptor. When you call the function again on 
 the same file, it grabs the next line. This project deals with memory allocation and when to free and allocate memory to prevent leaks.
