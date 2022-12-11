@@ -2,10 +2,10 @@
 
  [![Intro](https://img.shields.io/badge/Cursus-Get_next_line-success?style=for-the-badge&logo=42)](https://github.com/bshintak/Gnl)
  
- [![Stars](https://img.shields.io/github/stars/bshintak/Get_Next_Line?color=ffff00&label=Stars&logo=Stars&style=?style=flat)](https://github.com/bshintak/Gnl)
- [![Size](https://img.shields.io/github/repo-size/bshintak/Get_Next_Line?color=blue&label=Size&logo=Size&style=?style=flat)](https://github.com/bshintak/Gnl) 
+ [![Stars](https://img.shields.io/github/stars/bshintak/Get_Next_Line?color=ffff00&label=Stars&logo=Stars&style=?style=flat)](https://github.com/bshintak/Get_Next_Line)
+ [![Size](https://img.shields.io/github/repo-size/bshintak/Get_Next_Line?color=blue&label=Size&logo=Size&style=?style=flat)](https://github.com/bshintak/Get_Next_Line) 
  ![Lines of code](https://img.shields.io/tokei/lines/github/bshintak/Get_Next_line?color=blueviolet)
- [![Activity](https://img.shields.io/github/last-commit/bshintak/Get_Next_Line?color=red&label=Last%20Commit&style=flat)](https://github.com/bshintak/Gnl)
+ [![Activity](https://img.shields.io/github/last-commit/bshintak/Get_Next_Line?color=red&label=Last%20Commit&style=flat)](https://github.com/bshintak/Get_Next_Line)
 
 📖 Get_next_line is a 42 school project.
 
